@@ -1,8 +1,6 @@
 service: aws-ml-webhooks
 # app and org for use with dashboard.serverless.com
 app: aws-ml-webhooks-app
-org: gipshm
-
 
 provider:
   name: aws
